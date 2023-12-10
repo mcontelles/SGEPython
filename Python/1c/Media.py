@@ -1,0 +1,6 @@
+num1 = int(input("Introduce un número: "))
+num2 = int(input("Introduce un número: "))
+num3 = int(input("Introduce un número: "))
+num4 = int(input("Introduce un número: "))
+sum = int(num1+num2+num3+num4)
+print(f"La suma es: {sum} La media es: {(sum/4):.3f}")
